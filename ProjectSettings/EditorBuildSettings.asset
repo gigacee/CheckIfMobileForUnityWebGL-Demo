@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Check if Mobile for Unity WebGL/1.1.0/Samples/DisplayPCOrMobile.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
